@@ -11,7 +11,7 @@ const HasanLashgari: Developer = {
       languages: ["JavaScript", "TypeScript"],
       tools: ["ReactJS", "ReduxJS", "React Query", "NextJS"],
       cssTools: ["SASS", "BootStrap", "TailwindCSS", "Styled-components", "MUI"],
-      packages: ["react-router", "swiper", "Axios", "Formik", "react-hook-form", "Recharts", "i18next", "RTK", "SWR"],
+      packages: ["react-router", "Axios", "Formik", "react-hook-form", "Recharts", "i18next", "RTK", "SWR"],
     },
     backEnd: {
       languages: ["JavaScript", "TypeScript"],
