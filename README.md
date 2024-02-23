@@ -10,7 +10,7 @@ const HasanLashgari: Developer = {
     frontEnd: {
       languages: ["JavaScript", "TypeScript"],
       tools: ["ReactJS", "ReduxJS", "React Query", "NextJS"],
-      cssTools: ["SASS", "SCSS", "BootStrap", "TailwindCSS", "Styled-components", "MUI"],
+      cssTools: ["SASS", "BootStrap", "TailwindCSS", "Styled-components", "MUI"],
       packages: ["react-router", "swiper", "Axios", "Formik", "react-hook-form", "Recharts", "i18next", "RTK", "SWR"],
     },
     backEnd: {
